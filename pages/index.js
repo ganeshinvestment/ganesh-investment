@@ -2,7 +2,7 @@ import Head from 'next/head'
 
 export default function Home() {
   return (
-    <main className={styles.container}>
+    <main>
       <Head>
         <title>Ganesh Investment</title>
         <meta name="description" content="Welcome To Ganesh Investment" />
